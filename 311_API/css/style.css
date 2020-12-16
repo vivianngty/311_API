@@ -1,0 +1,16 @@
+table{
+    margin-top: 20px;
+}
+
+tr{
+    padding: 2px;
+}
+
+th, td{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.policeResolution{
+    border: 1px dashed lightcoral;
+}
